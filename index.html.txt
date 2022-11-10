@@ -1,0 +1,5 @@
+<html>
+<body>
+<h1 top-padding=50px><a href="C:\Users\manvi\OneDrive\Desktop\Price comparison Website\static\index.php">Open </a><h1>
+</body>
+</html>
